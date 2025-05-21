@@ -10,7 +10,3 @@
     url = {\url{https://github.com/wufan-tb/yolo_slowfast}}
 }
 ```
-
-[![Stargazers over time](https://starchart.cc/wufan-tb/yolo_slowfast.svg)](https://starchart.cc/wufan-tb/yolo_slowfast)
-
-

@@ -13,7 +13,7 @@ app_mode = st.sidebar.selectbox('Choose the App Mode',
 if app_mode == 'About App':
     st.subheader("About")
     st.markdown("<h5>This is the Animal detection, tracking and behavior recognition App</h5>", unsafe_allow_html=True)
-    st.image("Images/00006.jpg")
+    st.image("Images/00006.png")
 
     # Add demo video section
     st.markdown("<h5>Demo Video</h5>", unsafe_allow_html=True)

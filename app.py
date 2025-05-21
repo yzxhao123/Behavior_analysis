@@ -1,12 +1,7 @@
-import tempfile
-import cv2
-import streamlit as st
-import torch
-import numpy as np
-import time
-import random
 
-from ultralytics import YOLO
+import streamlit as st
+
+
 
 st.title('Animal Behavior Tracking')
 st.sidebar.title('App Mode')
@@ -31,7 +26,7 @@ if app_mode == 'About App':
 
     st.markdown("""
 ## Interactive interface installation
-(https://img.shields.io/badge/Github-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AntroSafin)
+(https://github.com/yzxhao123/Behavior_analysis.git)
 ## Tech Stack
 - Python
 - PyTorch

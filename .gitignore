@@ -13,4 +13,4 @@
 *ckpt*
 *.ts
 *.webm
-*.ipynb_checkpoints*
+*.ipynb_checkpoints**.pyth

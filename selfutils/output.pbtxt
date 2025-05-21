@@ -1,0 +1,32 @@
+item {
+  name: "Walk"
+  id: 0
+}
+item {
+  name: "Graze"
+  id: 1
+}
+item {
+  name: "Browse"
+  id: 2
+}
+item {
+  name: "Head Up"
+  id: 3
+}
+item {
+  name: "Auto-Groom"
+  id: 4
+}
+item {
+  name: "Trot"
+  id: 5
+}
+item {
+  name: "Run"
+  id: 6
+}
+item {
+  name: "Occluded"
+  id: 7
+}
